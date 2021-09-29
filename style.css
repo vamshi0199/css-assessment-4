@@ -1,0 +1,200 @@
+.one{
+    margin-top: 0px;
+    text-align: center;
+    background:linear-gradient(to right,red,green,lightgreen,yellow);
+    text-decoration: underline;
+}
+.two{
+    position: absolute;
+    border: solid red 2px;
+    background-color: skyblue;
+    height: 100px;
+    width: 500px;
+    top: 48px;
+    right: 403px;
+}
+.three{
+    margin-left: 180px;
+    
+    
+}
+.four{
+    position: relative;
+    height: 160px;
+    width: 100%;
+    top: 150px;
+    border: solid green 2px;
+}
+.five{
+    position: absolute;
+    background-color: green;
+    border: solid blue 2px;
+top: auto;
+    left: 10px;
+    height: 79px;
+    width: 370px;
+}
+.six{
+    position: absolute;
+    background-color: green;
+    border: solid blue 2px;
+top: auto;
+    left: 450px;
+    height: 79px;
+    width: 370px; 
+}
+.seven{
+    position: absolute;
+    background-color: green;
+    border: solid blue 2px;
+top: 77px;
+    left: 450px;
+    height: 79px;
+    width: 370px;
+}
+.eight{
+    position: absolute;
+    background-color: green;
+    border: solid blue 2px;
+top: auto;
+    right: 10px;
+    height: 79px;
+    width: 370px;
+}
+.nine{
+    background: linear-gradient(to right, red, yellow);
+    text-decoration: underline;
+    text-align: center;
+    width: 100%;
+    position: relative;
+    top: 182px;
+    border: solid tomato 2px;
+    color:black;
+    font-weight: bolder;
+    height: 50px;
+}
+.ten{
+    position: relative;
+    border: solid black 2px;
+    width: 100%;
+    height: 200px;
+    top: 250px;
+    background: linear-gradient(to left, yellow, blue, yellowgreen);
+}
+.eleven{
+    position: absolute;
+    border: red solid 2px;
+    text-align: center;
+    height: 100px;
+    width: 167px;
+    text-decoration: underline;
+    background-color: salmon;
+    top: 20px;
+    left: 20px;
+    padding: 27px;
+    border-radius: 10px;
+}
+.vam{
+    position: absolute;
+    border: red solid 2px;
+    text-align: center;
+    height: 100px;
+    width: 167px;
+    text-decoration: underline;
+    background-color: salmon;
+    top: 20px;
+    left: 330px;
+    padding: 27px;
+    border-radius: 10px;
+}
+.vam1{
+    position: absolute;
+    border: red solid 2px;
+    text-align: center;
+    height: 100px;
+    width: 167px;
+    text-decoration: underline;
+    background-color: salmon;
+    top: 20px;
+    left: 660px;
+    padding: 27px;
+    border-radius: 10px;
+}
+.vam2{
+    position: absolute;
+    border: red solid 2px;
+    text-align: center;
+    height: 100px;
+    width: 167px;
+    text-decoration: underline;
+    background-color: salmon;
+    top: 20px;
+    left: 990px;
+    padding: 27px;
+    border-radius: 10px;
+}
+.vam3{
+    position: relative;
+    text-align: center;
+    background-color: blueviolet;
+    border: red solid 2px;
+    background: linear-gradient(to right,red,yellow,green);
+    height: 50px;
+    width: 100%;
+    top: 275px;
+    color: white;
+}
+.vam4{
+height: 300px;
+position: relative;
+top: 300px;
+display: grid;
+grid-template-columns: 25% 25% 25% 25% ;
+color: white;
+font-weight: bold;
+font-size: larger;
+}
+.vam5{
+    background-color: tomato;
+    border: solid red 2px;
+    width: 300px;
+    height: 80px;
+}
+.vam6{
+    background-color: tomato;
+    border: solid red 2px;
+    width: 300px;
+    height: 80px;
+}
+.vam7{
+    background-color: tomato;
+    border: solid red 2px;
+    width: 300px;
+    height: 80px;
+}
+.vam8{
+    background-color: tomato;
+    border: solid red 2px;
+    width: 200px;
+    height: 150px;
+    text-decoration: underline;
+    color: black;
+}
+.vam9{
+    background-color: tomato;
+    border: solid red 2px;
+    width: 900px;
+    height: 80px;
+   
+}
+.vam10{
+    background-color: turquoise;
+    text-align: center;
+    color: white;
+    font-size: x-large;
+    position: relative;
+    top: 320px;
+    width: 100%;
+    height: 40px;
+    font-weight: bold;
+}
